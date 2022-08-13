@@ -1,0 +1,5 @@
+- 👋 Hi, I’m a physics student at Facultad de Ciencias, UNAM.
+- 👀 I’m interested in statistics, data analytics, and anything related with programming.
+- 🌱 I’m experienced using python and C++ for projects, and i´m currently learning R.
+- 📫 How to reach me...
+- gat0@ciencias.unam.mx
