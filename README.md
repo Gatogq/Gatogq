@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a physics student at Facultad de Ciencias, UNAM.
-- 👀 I’m interested in statistics, data analytics, and using programming tools to model and solve problems of any topic.
-- 🌱 I’m experienced using python and C++ for projects, and i´m currently learning R.
+- 👋 Hi, I’m currently working as Data Analyst/Data Engineer
+- 👀 I’m interested in web development, statistics, data analytics, and using programming tools to model and solve problems of any topic.
+- 🌱 I’m experienced using python, VBA, C++ for projects, and i´m currently learning R.
 - 📫 How to reach me...
 - gat0@ciencias.unam.mx
